@@ -1,4 +1,4 @@
-# BOWLL: A deceptively simple Open World Lifelong Learner
+# BOWLL: A Deceptively Simple Open World Lifelong Learner
 This package contains the code for BOWLL: A deceptively simple Open World Lifelong Learner. 
 
 Abstract: The quest to improve scalar performance numbers on predetermined benchmarks
