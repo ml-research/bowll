@@ -1,5 +1,5 @@
 # BOWLL: A Deceptively Simple Open World Lifelong Learner
-This package contains the code for BOWLL: A deceptively simple Open World Lifelong Learner. 
+This repository contains the code for the axXiv paper [BOWLL: A deceptively simple Open World Lifelong Learner](https://arxiv.org/abs/2402.04814). 
 
 Abstract: The quest to improve scalar performance numbers on predetermined benchmarks
 seems to be deeply engraved in deep learning. However, the real world is seldom
